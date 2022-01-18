@@ -1,0 +1,19 @@
+{
+    "superheroes": [
+        {
+            "id": 1,
+            "name": "Riti",
+            "job": "IT"
+        },
+        {
+            "id": 2,
+            "name": "Motu",
+            "job": "Doctor"
+        },
+        {
+            "id": 3,
+            "name": "Neha",
+            "job": "Designer"
+        }
+    ]
+}
